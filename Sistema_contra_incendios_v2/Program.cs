@@ -26,7 +26,7 @@ namespace Sistema_contra_incendios_v2
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.Write("Estacion 1: ");
                 Console.ResetColor();
-                if (d1 < 95)
+                if (d1 < 63)
                 {
                     Random o1 = new Random();
                     int m1 = o1.Next(20, 50);
@@ -47,7 +47,7 @@ namespace Sistema_contra_incendios_v2
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.Write("Estacion 2: ");
                 Console.ResetColor();
-                if (d2 < 90)
+                if (d2 < 63)
                 {
                     Random o2 = new Random();
                     int m2 = o2.Next(20, 50);
@@ -68,7 +68,7 @@ namespace Sistema_contra_incendios_v2
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.Write("Estacion 3: ");
                 Console.ResetColor();
-                if (d3 < 90)
+                if (d3 < 63)
                 {
                     Random o3 = new Random();
                     int m3 = o3.Next(20, 50);
@@ -116,3 +116,4 @@ namespace Sistema_contra_incendios_v2
         }
     }
 }
+
