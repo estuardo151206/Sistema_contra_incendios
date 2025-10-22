@@ -1,0 +1,16 @@
+C:\Users\Estua\source\repos\Sistema_contra_incendios_v2\Sistema_contra_incendios_v2\bin\Debug\Sistema_contra_incendios_v2.exe.config
+C:\Users\Estua\source\repos\Sistema_contra_incendios_v2\Sistema_contra_incendios_v2\bin\Debug\Sistema_contra_incendios_v2.exe
+C:\Users\Estua\source\repos\Sistema_contra_incendios_v2\Sistema_contra_incendios_v2\bin\Debug\Sistema_contra_incendios_v2.pdb
+C:\Users\Estua\source\repos\Sistema_contra_incendios_v2\Sistema_contra_incendios_v2\obj\Debug\Sistema_contra_incendios_v2.csproj.AssemblyReference.cache
+C:\Users\Estua\source\repos\Sistema_contra_incendios_v2\Sistema_contra_incendios_v2\obj\Debug\Sistema_contra_incendios_v2.csproj.CoreCompileInputs.cache
+C:\Users\Estua\source\repos\Sistema_contra_incendios_v2\Sistema_contra_incendios_v2\obj\Debug\Sistema_contra_incendios_v2.exe
+C:\Users\Estua\source\repos\Sistema_contra_incendios_v2\Sistema_contra_incendios_v2\obj\Debug\Sistema_contra_incendios_v2.pdb
+C:\Users\Estua\source\repos\Sistema_contra_incendios_v2\Sistema_contra_incendios_v2\obj\Debug\Sistema_contra_incendios_v2.exe.config
+D:\3382\Proyecto incendio\Sistema_contra_incendios_v2\bin\Debug\Sistema_contra_incendios_v2.exe.config
+D:\3382\Proyecto incendio\Sistema_contra_incendios_v2\bin\Debug\Sistema_contra_incendios_v2.exe
+D:\3382\Proyecto incendio\Sistema_contra_incendios_v2\bin\Debug\Sistema_contra_incendios_v2.pdb
+D:\3382\Proyecto incendio\Sistema_contra_incendios_v2\obj\Debug\Sistema_contra_incendios_v2.csproj.AssemblyReference.cache
+D:\3382\Proyecto incendio\Sistema_contra_incendios_v2\obj\Debug\Sistema_contra_incendios_v2.exe.config
+D:\3382\Proyecto incendio\Sistema_contra_incendios_v2\obj\Debug\Sistema_contra_incendios_v2.csproj.CoreCompileInputs.cache
+D:\3382\Proyecto incendio\Sistema_contra_incendios_v2\obj\Debug\Sistema_contra_incendios_v2.exe
+D:\3382\Proyecto incendio\Sistema_contra_incendios_v2\obj\Debug\Sistema_contra_incendios_v2.pdb
