@@ -14,9 +14,9 @@ namespace Sistema_contra_incendios_v2
             while(true)
             {
                 Random rbn = new Random();
-                int d1 = rbn.Next(25, 66);
-                int d2 = rbn.Next(25, 66);
-                int d3 = rbn.Next(25, 66);
+                int d1 = rbn.Next(25, 120);
+                int d2 = rbn.Next(25, 120);
+                int d3 = rbn.Next(25, 120);
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
                 Console.WriteLine("╔════════════════════════╗");
                 Console.WriteLine("║SISTEMA CONTRA INCENDIOS║");
@@ -26,7 +26,7 @@ namespace Sistema_contra_incendios_v2
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.Write("Estacion 1: ");
                 Console.ResetColor();
-                if (d1 < 63)
+                if (d1 < 70)
                 {
                     Random o1 = new Random();
                     int m1 = o1.Next(20, 50);
@@ -47,7 +47,7 @@ namespace Sistema_contra_incendios_v2
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.Write("Estacion 2: ");
                 Console.ResetColor();
-                if (d2 < 63)
+                if (d2 < 70)
                 {
                     Random o2 = new Random();
                     int m2 = o2.Next(20, 50);
@@ -68,7 +68,7 @@ namespace Sistema_contra_incendios_v2
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.Write("Estacion 3: ");
                 Console.ResetColor();
-                if (d3 < 63)
+                if (d3 < 70)
                 {
                     Random o3 = new Random();
                     int m3 = o3.Next(20, 50);
@@ -116,4 +116,5 @@ namespace Sistema_contra_incendios_v2
         }
     }
 }
+
 
